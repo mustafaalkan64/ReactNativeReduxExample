@@ -1,3 +1,14 @@
-# ReactNativeReduxExample
+# Book List App With React Native AndRedux
 
-Book List App With React Native and Redux
+This App is a small example for redux that ensures displaying book lists
+
+To install:
+
+```
+npm install
+```
+
+```
+react-native run-android
+```
+
